@@ -36,7 +36,7 @@ Get pyrogram (p)  `SESSION` from here:
 ```sh
 # Install Git First (apt-get install git)
 $ git clone https://github.com/PereraSehath/AnnieXMusic
-$ cd DaisyXMusic
+$ cd AnnieXMusic
 # Upgrade sources
 # Install All Requirements 
 $ pip3 install -U -r requirements.txt
