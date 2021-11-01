@@ -1,11 +1,11 @@
-<h1 align="center">DAISYX MUSIC V5.0 🎵</h1>
+<h1 align="center">ANNIE MUSIC V5.0 🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [MARSHALX TGCALLS](https://github.com/MarshalX/tgcalls)
-### Available on telegram as [@DaisyXbot](https://t.me/daisyxbot)
+### Available on telegram as [@Annie](https://t.me/MrsAnnieRobot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
+  <img src="https://te.legra.ph/file/4be71c294e4548c10d651.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
@@ -26,7 +26,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDaisyX/DaisyXMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PereraSehath/AnnieXMusic)
 
 Get pyrogram (p)  `SESSION` from here:
 
@@ -35,13 +35,13 @@ Get pyrogram (p)  `SESSION` from here:
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-get install git)
-$ git clone https://github.com/TeamDaisyX/DaisyXmusic
+$ git clone https://github.com/PereraSehath/AnnieXMusic
 $ cd DaisyXMusic
 # Upgrade sources
 # Install All Requirements 
 $ pip3 install -U -r requirements.txt
 # Fork This Repo and fill config.py vars with your own values.Then Start The Bot
-$ python3 -m DaisyXMusic
+$ python3 -m AnnieXMusic
 ```
 
 ### Commands for Group 🛠
@@ -115,13 +115,11 @@ If you donlt like to play in linked channel:
 - [Callsmusic](http://github.com/callsmusic/callsmusic)
 - [tgvc-userbot](https://github.com/callsmusic/tgvc-userbot)
 
-This project is inspired on the hard work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork daisyxmusic won't exist. 
-Also DaisyXmusic is inspired by many opensource bots and userbots
+This project is inspired on the hard work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork anniexmusic won't exist. 
+Also AnnieXmusic is inspired by many opensource bots and userbots
 
 #### Contributors
-- [InukaAsith](https://github.com/InukaAsith): Dev / Owner
-- [lucifeermorningstar](https://github.com/lucifeermorningstar): Dev / Owner
-- [Technical-Hunter](https://github.com/Technical-Hunter): Dev / Owner
+- [SehathPerera](https://github.com/PereraSehath): Dev|Owner
 - [Hellboy-OP](https://github.com/hellboy-op)
 - [Roj Serbest](http://github.com/rojserbest): Developer of callsmusic 
 - [DeshadeethThisarana](https://github.com/deshadeeth-thisarana): Dev
@@ -138,5 +136,5 @@ Also DaisyXmusic is inspired by many opensource bots and userbots
  - Copyright (C) 2020 - 2021 by [TeamDaisyX](github.com/teamdaisyx) ❤️️
  - Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/TeamDaisyX/DaisyXMusic/blob/master/LICENSE)
     
-DaisyXMusic is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.    
-## Made with ♥️ by [TeamDaisyX](https://github.com/TeamDaisyX)
+AnnieXMusic is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.    
+## Made with ♥️ by [AnnieSupporters](https://github.com/PereraSehath)
