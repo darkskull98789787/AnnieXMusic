@@ -1,11 +1,11 @@
-<h1 align="center">ANNIE MUSIC V5.0 🎵</h1>
+<h1 align="center">DARK SKULL V5.0 🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [MARSHALX TGCALLS](https://github.com/MarshalX/tgcalls)
-### Available on telegram as [@Annie](https://t.me/MrsAnnieRobot)
+### Available on telegram as [@Dark](https://t.me/DarkSkullsupport)
 
 <p align="center">
-  <img src="https://te.legra.ph/file/4be71c294e4548c10d651.jpg">
+  <img src="https://telegra.ph/file/17df8da66873ec04a3846.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
@@ -36,7 +36,7 @@ Get pyrogram (p)  `SESSION` from here:
 ```sh
 # Install Git First (apt-get install git)
 $ git clone https://github.com/PereraSehath/AnnieXMusic
-$ cd AnnieXMusic
+$ cd Darkskull
 # Upgrade sources
 # Install All Requirements 
 $ pip3 install -U -r requirements.txt
@@ -119,7 +119,7 @@ This project is inspired on the hard work done by [Rojserbest](http://github.com
 Also AnnieXmusic is inspired by many opensource bots and userbots
 
 #### Contributors
-- [SehathPerera](https://github.com/PereraSehath): Dev|Owner
+- [SehathPerera](https://github.com/DarkSkull93): Dev|Owner
 - [Hellboy-OP](https://github.com/hellboy-op)
 - [Roj Serbest](http://github.com/rojserbest): Developer of callsmusic 
 - [DeshadeethThisarana](https://github.com/deshadeeth-thisarana): Dev
